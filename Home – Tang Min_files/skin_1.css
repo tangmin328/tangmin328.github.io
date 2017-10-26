@@ -4872,10 +4872,10 @@ body.boxed .page-wrapper {
     color: rgb(201, 107, 52);
 }
 
-@media (max-width: 479px) {
+@media (max-width: 700px) {
     #header .logo-text {
-        font-size: 37.14285714px;
-        line-height: 43.63636364px
+        font-size: 20px;
+        line-height: 20px
     }
 }
 
